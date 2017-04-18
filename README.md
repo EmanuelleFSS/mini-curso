@@ -1,1 +1,1 @@
-# mini-curso
+# Mini-curso de Robótica
