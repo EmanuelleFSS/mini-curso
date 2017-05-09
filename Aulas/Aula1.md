@@ -26,3 +26,8 @@ Definição: "_Ciência dos sistemas que interagem com o mundo real, com pouca o
 # Competições Teoricas
 
 1. ENATER
+
+---
+#Referências:
+
+http://www.sbpcnet.org.br/livro/62ra/minicursos/MC%20Samuel%20Azevedo.pdf
