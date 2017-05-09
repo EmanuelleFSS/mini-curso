@@ -13,8 +13,8 @@
 
 ## Robótica
 
-Definição: "_Ciência dos sistemas que interagem com o mundo real, com pouco ou mesmo nenhuma intervenção humana_"( MARTINS,
- 2006 )
+Definição: "_Ciência dos sistemas que interagem com o mundo real, com pouca ou mesmo nenhuma intervenção humana_"(MARTINS, 2006)
+
 ---
 
 ## Por que estudar robótica?
