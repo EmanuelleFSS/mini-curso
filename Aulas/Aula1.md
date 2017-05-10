@@ -3,6 +3,7 @@
 -->
 
 # Introdução
+
 ---
 # Roteiro
 
@@ -10,13 +11,11 @@
 1. Motivação
 
 ---
-
 ## Robótica
 
 Definição: "_Ciência dos sistemas que interagem com o mundo real, com pouca ou mesmo nenhuma intervenção humana_"(MARTINS, 2006)
 
 ---
-
 ## Por que estudar robótica?
 
 1. Competições
@@ -64,7 +63,6 @@ A modalidade Teórica, acontece nas escolas dos estudantes e em sedes regionais 
 1. [CORA](https://www.facebook.com/UFMGcora) - Competição de Robôs Autônomos - UFMG
 
 ---
-
 ## Torneio Juvenil de Robótica
 
 O TJR - Torneio Juvenil de Robótica é um evento gratuito de abrangência nacional que ocorre desde 2009, para difusão da Robótica no ambiente escolar da Educação Básica até a Educação Superior.
@@ -72,7 +70,7 @@ O TJR - Torneio Juvenil de Robótica é um evento gratuito de abrangência nacio
 A competição patrocinada pelo evento tem inúmeros desafios, planejados para o estudo e desenvolvimento da robótica para robôs autônomos, à disposição para aqueles que queiram participar, sendo que a inscrição de uma equipe num desafio não impede as inscrições nos demais.
 
 ---
-### Torneio Juvenil de Robótica - continuação
+### TJR - continuação
 Todos os desafios vêm acompanhados de Cadernos de Apoio publicados no site do evento, onde estão apresentadas as características básicas do problema, orientações pedagógicas para a preparação dos alunos e as características do desenrolar da competição. Também como suporte para o estudo e desenvolvimento de alunos e professores, a organização do evento oferece material na Escola Pública de Robótica e links para inúmeros artigos científicos que tratam dos desafios do Torneio e sua aplicação em aula, transformando o evento numa escola de robótica e computação de domínio público acessível tanto à distância quanto efetiva durante as competições e palestras presenciais.
 
 O TJR Torneio Juvenil de Robótica, durante o ano, realizará 26 etapas regionais, das quais as equipes situadas nos primeiros lugares, por nível e por desafio, serão convidadas a disputar a final nacional. Neste ano, 2017, a Etapa Final Nacional ocorrerá na cidade de São Luis do Maranhão, no IEMA, em 3 e 4 de novembro.
@@ -83,6 +81,14 @@ O TJR Torneio Juvenil de Robótica, durante o ano, realizará 26 etapas regionai
 A modalidade Prática acontece através de eventos/competições Regionais e Estaduais que classificam as equipes de estudantes para uma final Nacional, os estudantes ficam sob orientação de seus professores e cientistas. Os eventos organizados pela OBR e são gratuitos e abertos ao público. Mais informações no [site](http://www.obr.org.br/como-funciona-modalidade-teorica/).
 
 A OBR estabelece anualmente uma tarefa, e os alunos deverão construir robôs que atendam a esta tarefa. Os robôs podem ser integralmente construídos pelos alunos ou podem ser construídos utilizando kits robóticos (a critério dos participantes).
+
+---
+## CORA - Competição de Robôs Autônomos - UFMG
+
+Competição de Robôs Autônomos - é realizada pelo PET Engenharia Elétrica. É um evento no qual as equipes, compostas por até três integrantes, devem construir um robô seguidor de linha capaz de superar obstáculos ao longo do percurso.
+
+QUEM PODE SE INSCREVER?
+Alunos de graduação e do ensino médio e técnico de qualquer instituição de ensino. Mais informações [em](https://www.facebook.com/events/1024937577583663/).
 
 ---
 # Referências:
