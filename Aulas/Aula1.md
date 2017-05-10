@@ -73,8 +73,6 @@ A competição patrocinada pelo evento tem inúmeros desafios, planejados para o
 ### TJR - continuação
 Todos os desafios vêm acompanhados de Cadernos de Apoio publicados no site do evento, onde estão apresentadas as características básicas do problema, orientações pedagógicas para a preparação dos alunos e as características do desenrolar da competição. Também como suporte para o estudo e desenvolvimento de alunos e professores, a organização do evento oferece material na Escola Pública de Robótica e links para inúmeros artigos científicos que tratam dos desafios do Torneio e sua aplicação em aula, transformando o evento numa escola de robótica e computação de domínio público acessível tanto à distância quanto efetiva durante as competições e palestras presenciais.
 
-O TJR Torneio Juvenil de Robótica, durante o ano, realizará 26 etapas regionais, das quais as equipes situadas nos primeiros lugares, por nível e por desafio, serão convidadas a disputar a final nacional. Neste ano, 2017, a Etapa Final Nacional ocorrerá na cidade de São Luis do Maranhão, no IEMA, em 3 e 4 de novembro.
-
 ---
 ## OBR - modalidade prática
 
