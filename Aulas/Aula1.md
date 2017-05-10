@@ -88,7 +88,18 @@ A OBR estabelece anualmente uma tarefa, e os alunos deverão construir robôs qu
 Competição de Robôs Autônomos - é realizada pelo PET Engenharia Elétrica. É um evento no qual as equipes, compostas por até três integrantes, devem construir um robô seguidor de linha capaz de superar obstáculos ao longo do percurso.
 
 QUEM PODE SE INSCREVER?
-Alunos de graduação e do ensino médio e técnico de qualquer instituição de ensino. Mais informações [em](https://www.facebook.com/events/1024937577583663/).
+Alunos de graduação e do ensino médio e técnico de qualquer instituição de ensino. Mais informações na [página](https://www.facebook.com/events/1024937577583663/).
+
+---
+# Faça você mesmo
+
+Na internet é possível achar uma infinidade de tutoriais de como montar algo, como por exemplo:
+1. [Arduino](https://blog.arduino.cc/)
+1. [Felipe Flop](http://blog.filipeflop.com/)
+1. [Lab de garagem](http://labdegaragem.com/page/projetos-1)
+1. [TecMundo](https://www.tecmundo.com.br/area-42/29929-area-42-como-construir-um-robo-com-partes-de-um-celular-velho-video-.htm)
+
+Procure também por "movimento maker"
 
 ---
 # Referências:
