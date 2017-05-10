@@ -26,6 +26,7 @@ Definição: "_Ciência dos sistemas que interagem com o mundo real, com pouca o
 # Competições Teoricas
 
 1. ENATER (http://www.enater.org/anteriores.php)
+1. OBR (http://www.obr.org.br/como-funciona-modalidade-teorica/)
 
 ---
 #Referências:
