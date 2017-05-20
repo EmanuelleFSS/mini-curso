@@ -65,7 +65,7 @@ Desfio: abram a IDE do LEGO e façam a programação de um robô que vai para fr
 
 # C
 
-Desfio: entrem neste [site](https://scratch.mit.edu/projects/162145552/), montem o circuito de acordo com a imagem abaixo e acendam o led.
+Desfio: entrem neste [site](https://circuits.io/), montem o circuito de acordo com a imagem abaixo e acendam o led.
 ![CArduino](images/arduinoMontagem1.png)
 
 ---
