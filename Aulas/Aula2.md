@@ -3,6 +3,7 @@
 ---
 
 ## Linguagens 
+
 1. LOGO
 1. Blocos
 1. C
@@ -40,6 +41,8 @@ Criado tendo em vista as experiências do Media Lab com a linguagem LOGO desenvo
 
 O Scratch é muito mais acessível que outras linguagens de programação, por se utilizar de uma interface gráfica que permite que programas sejam montados como blocos de montar, lembrando o brinquedo Lego. Utiliza uma sintaxe comum a muitas linguagens de programação. É diferente de outras linguagens, não tem nenhum tipo de pontuação obscura.
 
+Outra motivação: http://s4a.cat/ (Uma variação do scratch que pode ser utilizada para programar o Arduino).
+
 ---
 
 ## Scratch: exemplo de uso
@@ -59,3 +62,9 @@ Desfio: entrem neste [site](https://scratch.mit.edu/projects/162145552/) e termi
 Desfio: abram a IDE do LEGO e façam a programação de um robô que vai para frente e para quando esta a uma determinada distancia de algum objeto.
 
 ---
+
+# C
+
+Desfio: entrem neste [site](https://scratch.mit.edu/projects/162145552/), montem o circuito de acordo com a imagem abaixo e acendam o led.
+
+![CArduino](images/arduino montagem 1.png)
