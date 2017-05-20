@@ -5,7 +5,7 @@
 # Introdução
 
 ---
-# Roteir
+# Roteiro
 
 1. Conceito
 1. Motivação
