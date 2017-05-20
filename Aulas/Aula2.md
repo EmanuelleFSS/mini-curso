@@ -72,3 +72,7 @@ Desfio: entrem neste [site](https://circuits.io/), montem o circuito de acordo c
 ## DICA
 
 Verifique a tabela de referencia do [site](https://multilogica-shop.com/Referencia)
+
+[Resposta](https://circuits.io/circuits/4594254-the-unnamed-circuit)
+
+---
