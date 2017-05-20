@@ -19,6 +19,6 @@ Em informática, Logo é uma linguagem de programação interpretada, voltada pa
 
 Desfio: entrem neste [site](http://sonic.net/~nbs/webturtle/webturtle.cgi) e desenhem a figura abaixo:
 
-![Turtle](../images/turtle.png)
-![Turtle](../images/turtle2.png)
+![Turtle](images/turtle.png)
+![Turtle](images/turtle2.png)
 
