@@ -77,6 +77,7 @@
 # Circuitos
 
   Um circuito fechado consiste em um percurso sem interrupção para a corrente, saindo da fonte, passa pela carga e volta a fonte.
+  
   ![circuito](http://alunosonline.uol.com.br/upload/conteudo/images/O%20sentido%20da%20corrente%20eletrica%20que%20circula%20o%20circuito%20%20do%20polo%20positivo%20para%20o%20negativo.jpg)
   ![circuito 2](http://3.bp.blogspot.com/_yhcFVb0usrM/TJJR4PbmCxI/AAAAAAAABw0/GYtX8kk9qGk/s320/circuito.png)
 
