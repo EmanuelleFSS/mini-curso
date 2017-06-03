@@ -21,10 +21,10 @@
 ## Fontes de Tensão
 
   Bateria Quimica  
-  ![Bateria](http://www.netsupri.com.br/image/data/pilhasbateriasfoto.jpg)
+  ![Bateria](http://www.netsupri.com.br/image/data/pilhasbateriasfoto.jpg =250x)
   
   Gerador  
-  ![Gerador](http://galvaomaquinas.com.br/image/cache/data/gerador/gerador%20nova-500x500.jpg)
+  ![Gerador](http://galvaomaquinas.com.br/image/cache/data/gerador/gerador%20nova-500x500.jpg =250x)
 
 ---
 
@@ -44,8 +44,8 @@
 
   Um resistor é um dispositivo cuja a resistência ao fluxo da corrente tem um valor conhecido e bem determinado.
   Algumas aplicações frequentes dos resistores são: estabelecer o valor adequado da tensão do circuito, limitar a corrente e constituir-se numa carga
-  ![resistor](http://evolutec.ind.br/wp-content/uploads/2016/07/Post-004-27-07-2016_Principal.png)
-  ![tabela](http://blog.render.com.br/wp-content/uploads/2014/06/Resistores-01.png)
+  ![resistor](http://evolutec.ind.br/wp-content/uploads/2016/07/Post-004-27-07-2016_Principal.png =250x)
+  ![tabela](http://blog.render.com.br/wp-content/uploads/2014/06/Resistores-01.png =250x)
 
 ---
 
@@ -58,14 +58,14 @@
 ### Voltimetro
 
   O voltimetro é o intrumento utilizado para medir a tensão elétrica entre dois pontos de um circuito elétrico.
-  ![Voltimetro](https://s3-sa-east-1.amazonaws.com/multilogica-files/Tutorial_Multilogica-Shop_Arduino_Voltimetro_4b.jpg)
+  ![Voltimetro](https://s3-sa-east-1.amazonaws.com/multilogica-files/Tutorial_Multilogica-Shop_Arduino_Voltimetro_4b.jpg =250x)
   
 ---
 
 ### Amperimetro
 
   O amperimetro é instrumento utilizado para medir a corrente elétrica que atravessa um condutor ou um dispositivo.
-  ![Amperimetro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjTpZ3elBEE5nNIcuEd40mtsjol-Kzi-_0_fd3OwgJ5PxVryi)
+  ![Amperimetro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjTpZ3elBEE5nNIcuEd40mtsjol-Kzi-_0_fd3OwgJ5PxVryi =250x)
 
 ---
 # Potência
@@ -78,8 +78,8 @@
 
   Um circuito fechado consiste em um percurso sem interrupção para a corrente, saindo da fonte, passa pela carga e volta a fonte.
   
-  ![circuito](http://alunosonline.uol.com.br/upload/conteudo/images/O%20sentido%20da%20corrente%20eletrica%20que%20circula%20o%20circuito%20%20do%20polo%20positivo%20para%20o%20negativo.jpg)
-  ![circuito 2](http://3.bp.blogspot.com/_yhcFVb0usrM/TJJR4PbmCxI/AAAAAAAABw0/GYtX8kk9qGk/s320/circuito.png)
+  ![circuito](http://alunosonline.uol.com.br/upload/conteudo/images/O%20sentido%20da%20corrente%20eletrica%20que%20circula%20o%20circuito%20%20do%20polo%20positivo%20para%20o%20negativo.jpg =250x)
+  ![circuito 2](http://3.bp.blogspot.com/_yhcFVb0usrM/TJJR4PbmCxI/AAAAAAAABw0/GYtX8kk9qGk/s320/circuito.png =250x)
 
 ---
 
