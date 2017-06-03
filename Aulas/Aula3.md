@@ -20,8 +20,11 @@
 
 ## Fontes de Tensão
 
-  Bateria Quimica  ![Bateria](http://www.netsupri.com.br/image/data/pilhasbateriasfoto.jpg)
-  Gerador  ![Gerador](http://galvaomaquinas.com.br/image/cache/data/gerador/gerador%20nova-500x500.jpg)
+  Bateria Quimica  
+  ![Bateria](http://www.netsupri.com.br/image/data/pilhasbateriasfoto.jpg)
+  
+  Gerador  
+  ![Gerador](http://galvaomaquinas.com.br/image/cache/data/gerador/gerador%20nova-500x500.jpg)
 
 ---
 
