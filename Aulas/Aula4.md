@@ -32,14 +32,12 @@ Existem varios tipos de arduino
 
 ---
 
+![Estrutura geral](http://static.usinainfo.com.br/6333-infografico/arduino-uno-r3-base-acrilica-oficial-cabo-usb-original.jpg)
+
+---
+
 ## Scratch
 
 [S4A](http://s4a.cat/)
 
 [Tutorial de instalação](http://www.seucurso.com.br/index.php?option=com_content&view=article&id=347:usando-o-scratch-s4a-do-mit-para-programar-o-arduino&catid=901:arduino&Itemid=65)
-
-![Estrutura geral](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwik47yzuLLUAhXBF5AKHeS8Cw0QjRwIBw&url=http%3A%2F%2Fwww.usinainfo.com.br%2Farduino-original%2Farduino-uno-r3-base-acrilica-oficial-cabo-usb-original-2457.html&psig=AFQjCNGYtquMrLjBLg0KU15uItQrbhrYKw&ust=1497155263339203)
-
----
-
-## Scratch for arduino
